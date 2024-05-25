@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 -       by email - swarup.padol2010@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm the programmer of 12 year's.
+- ⚡ Fun fact: I've started programming from 10 year of my life.
 
 <!---
 Swarup-Padol/Swarup-Padol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
