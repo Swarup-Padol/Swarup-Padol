@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swarup-Padol
-- 👀 I’m interested in Programing, Playing badminton, Reading book's and Playing Tabala.
+- 👀 I’m interested in Programing, Playing badminton, Reading book's and Playing Tabla.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
